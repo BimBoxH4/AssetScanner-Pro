@@ -1,0 +1,33 @@
+# AssetScanner Pro runtime dependencies
+#
+# Install with:
+#   python -m pip install -r requirements.txt
+#
+# Python: 3.10+ recommended. The scanner also requires a local Google Chrome or
+# Chromium installation because Selenium drives a headless browser.
+
+# HTTP requests, TLS warning handling, remote fingerprint downloads, geo lookup,
+# favicon retrieval, Shodan API calls, and optional proxy-aware preflight checks.
+requests>=2.31.0
+urllib3>=2.0.0
+
+# HTML/XML parsing for title, DOM, text, favicon, and report feature extraction.
+beautifulsoup4>=4.12.0
+
+# Browser automation used to render pages, capture screenshots, and inspect DOM.
+selenium>=4.18.0
+webdriver-manager>=4.0.1
+
+# Image processing and perceptual hashing for screenshots and favicons.
+Pillow>=10.0.0
+ImageHash>=4.3.1
+
+# Optional but enabled by default unless --no-tech or --fast is used.
+# Provides Wappalyzer technology detection from rendered pages.
+python-Wappalyzer>=0.3.1
+
+# Optional progress bar. v3.py includes a fallback, but tqdm gives a better CLI UX.
+tqdm>=4.66.0
+
+# Required only when serving an existing or generated report with --server.
+Flask>=3.0.0
