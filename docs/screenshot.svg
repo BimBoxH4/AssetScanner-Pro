@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">AssetScanner Pro report preview</title>
+  <desc id="desc">Illustrative screenshot preview of the AssetScanner Pro HTML report with controls, statistics, grouped asset cards, and screenshots.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#dbeafe"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e3a8a"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#0f172a" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="64" y="50" width="1152" height="620" rx="28" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="64" y="50" width="1152" height="64" rx="28" fill="#ffffff"/>
+  <rect x="64" y="94" width="1152" height="20" fill="#ffffff"/>
+  <text x="96" y="91" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="800" fill="#2563eb">AssetScanner</text>
+  <text x="286" y="91" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="800" fill="#94a3b8">Pro</text>
+  <rect x="414" y="66" width="384" height="32" rx="9" fill="#f8fafc" stroke="#e2e8f0"/>
+  <rect x="414" y="66" width="88" height="32" rx="9" fill="#f1f5f9" stroke="#e2e8f0"/>
+  <text x="444" y="87" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#475569">IP</text>
+  <text x="525" y="87" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" fill="#94a3b8">Filter results...</text>
+  <rect x="824" y="66" width="92" height="32" rx="9" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="846" y="87" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#475569">Expand</text>
+  <rect x="928" y="66" width="96" height="32" rx="9" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="950" y="87" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#475569">Collapse</text>
+  <rect x="1062" y="66" width="78" height="32" rx="16" fill="#eff6ff" stroke="#bfdbfe"/>
+  <text x="1084" y="87" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" fill="#2563eb">Hide</text>
+  <rect x="96" y="142" width="236" height="82" rx="14" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="120" y="172" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" fill="#64748b">TOTAL ASSETS</text>
+  <text x="120" y="205" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="32" font-weight="900" fill="#2563eb">128</text>
+  <rect x="356" y="142" width="236" height="82" rx="14" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="380" y="172" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" fill="#64748b">GROUPS</text>
+  <text x="380" y="205" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="32" font-weight="900" fill="#2563eb">24</text>
+  <rect x="616" y="142" width="236" height="82" rx="14" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="640" y="172" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" fill="#64748b">C-BLOCKS</text>
+  <rect x="640" y="188" width="78" height="22" rx="5" fill="#eff6ff" stroke="#dbeafe"/>
+  <text x="652" y="203" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#1e40af">10.0.1.0</text>
+  <rect x="726" y="188" width="78" height="22" rx="5" fill="#eff6ff" stroke="#dbeafe"/>
+  <text x="738" y="203" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#1e40af">10.0.2.0</text>
+  <rect x="876" y="142" width="236" height="82" rx="14" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="900" y="172" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" fill="#64748b">ASNS</text>
+  <rect x="900" y="188" width="100" height="22" rx="5" fill="#eff6ff" stroke="#dbeafe"/>
+  <text x="912" y="203" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#1e40af">AS Example</text>
+  <rect x="96" y="254" width="832" height="372" rx="16" fill="#ffffff" stroke="#e2e8f0"/>
+  <rect x="96" y="254" width="832" height="62" rx="16" fill="#fcfcfd"/>
+  <rect x="96" y="300" width="832" height="16" fill="#fcfcfd"/>
+  <text x="124" y="282" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="900" fill="#1e293b">Group 1 - 8 Similar Assets</text>
+  <text x="124" y="303" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" fill="#94a3b8">Feature: Hardware Product: Fortinet FortiGate | Tech: General | DOM: a1b2c3d4</text>
+  <rect x="124" y="344" width="232" height="246" rx="12" fill="#ffffff" stroke="#dbeafe"/>
+  <rect x="124" y="344" width="232" height="38" rx="12" fill="#ffffff"/>
+  <circle cx="146" cy="363" r="8" fill="#2563eb"/>
+  <text x="162" y="368" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" fill="#2563eb">VPN Gateway</text>
+  <rect x="124" y="382" width="232" height="112" fill="url(#screen)"/>
+  <rect x="146" y="410" width="90" height="12" rx="6" fill="#60a5fa" opacity="0.75"/>
+  <rect x="146" y="436" width="150" height="8" rx="4" fill="#bfdbfe" opacity="0.55"/>
+  <rect x="146" y="452" width="120" height="8" rx="4" fill="#bfdbfe" opacity="0.35"/>
+  <rect x="144" y="514" width="58" height="20" rx="10" fill="#dcfce7"/>
+  <text x="154" y="528" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" fill="#166534">HTTP 200</text>
+  <text x="144" y="552" font-family="Consolas, monospace" font-size="11" fill="#64748b">https://vpn.example</text>
+  <rect x="144" y="565" width="50" height="16" rx="4" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="154" y="577" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#475569">Fortinet</text>
+  <rect x="380" y="344" width="232" height="246" rx="12" fill="#ffffff" stroke="#dbeafe"/>
+  <rect x="380" y="344" width="232" height="38" rx="12" fill="#ffffff"/>
+  <circle cx="402" cy="363" r="8" fill="#2563eb"/>
+  <text x="418" y="368" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" fill="#2563eb">Admin Portal</text>
+  <rect x="380" y="382" width="232" height="112" fill="#0f172a"/>
+  <rect x="402" y="408" width="120" height="12" rx="6" fill="#f8fafc" opacity="0.75"/>
+  <rect x="402" y="438" width="150" height="10" rx="5" fill="#60a5fa" opacity="0.5"/>
+  <rect x="402" y="458" width="92" height="10" rx="5" fill="#60a5fa" opacity="0.35"/>
+  <rect x="400" y="514" width="58" height="20" rx="10" fill="#fef9c3"/>
+  <text x="410" y="528" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" fill="#854d0e">HTTP 302</text>
+  <text x="400" y="552" font-family="Consolas, monospace" font-size="11" fill="#64748b">https://admin.example</text>
+  <rect x="400" y="565" width="48" height="16" rx="4" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="410" y="577" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#475569">Cisco</text>
+  <rect x="636" y="344" width="232" height="246" rx="12" fill="#ffffff" stroke="#dbeafe"/>
+  <rect x="636" y="344" width="232" height="38" rx="12" fill="#ffffff"/>
+  <circle cx="658" cy="363" r="8" fill="#2563eb"/>
+  <text x="674" y="368" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" fill="#2563eb">Device Login</text>
+  <rect x="636" y="382" width="232" height="112" fill="#e2e8f0"/>
+  <rect x="678" y="412" width="150" height="20" rx="10" fill="#ffffff"/>
+  <rect x="696" y="448" width="112" height="12" rx="6" fill="#94a3b8" opacity="0.7"/>
+  <rect x="656" y="514" width="58" height="20" rx="10" fill="#dcfce7"/>
+  <text x="666" y="528" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" fill="#166534">HTTP 200</text>
+  <text x="656" y="552" font-family="Consolas, monospace" font-size="11" fill="#64748b">https://fw.example</text>
+  <rect x="656" y="565" width="44" height="16" rx="4" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="666" y="577" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" fill="#475569">F5</text>
+  <rect x="956" y="254" width="196" height="372" rx="16" fill="#ffffff" stroke="#bfdbfe" opacity="0.86"/>
+  <text x="980" y="286" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="900" fill="#2563eb">Groups</text>
+  <rect x="1102" y="270" width="28" height="20" rx="10" fill="#eff6ff" stroke="#dbeafe"/>
+  <text x="1110" y="284" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" fill="#64748b">24</text>
+  <rect x="976" y="314" width="152" height="46" rx="10" fill="#eff6ff" stroke="#bfdbfe"/>
+  <text x="990" y="334" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" fill="#2563eb">Group 1</text>
+  <text x="990" y="350" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#94a3b8">General</text>
+  <rect x="976" y="374" width="152" height="46" rx="10" fill="#ffffff" stroke="#ffffff"/>
+  <text x="990" y="394" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" fill="#334155">Group 2</text>
+  <text x="990" y="410" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#94a3b8">Firewall</text>
+  <rect x="976" y="434" width="152" height="46" rx="10" fill="#ffffff" stroke="#ffffff"/>
+  <text x="990" y="454" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" fill="#334155">Group 3</text>
+  <text x="990" y="470" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" fill="#94a3b8">Gateway</text>
+</svg>
