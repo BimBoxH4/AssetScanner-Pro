@@ -114,14 +114,14 @@ APP_NAME = "AssetScanner Pro"
 VERSION = "v2.0 Comprehensive & Powerful Edition"
 TAGLINE = "Visual Intelligence & Smart Asset Correlation"
 ATTRIBUTION_NAME = "BimBox"
-ATTRIBUTION_URL = "https://github.com/BimBoxH4/AssetScanner-Pro"
+ATTRIBUTION_URL = "https://github.com/BimBoxH4"
 
 BANNER = rf"""
 +------------------------------------------------------------------------------+
 |                                                                              |
-|      ___                   __   _____                                        |
-|     /   |  _____________  / /_ / ___/_________ _____  ____  ___  _____       |
-|    / /| | / ___/ ___/ _ \/ __/ \__ \/ ___/ __ `/ __ \/ __ \/ _ \/ ___/       |
+|      ___                   __   _____                                         |
+|     /   |  _____________  / /_ / ___/_________ _____  ____  ___  _____        |
+|    / /| | / ___/ ___/ _ \/ __/ \__ \/ ___/ __ `/ __ \/ __ \/ _ \/ ___/        |
 |   / ___ |(__  |__  )  __/ /_  ___/ / /__/ /_/ / / / / / / /  __/ /           |
 |  /_/  |_/____/____/\___/\__/ /____/\___/\__,_/_/ /_/_/ /_/\___/_/            |
 |                                                                              |
